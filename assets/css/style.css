@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #ffc107;
@@ -527,7 +527,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #ffc107;
+  color: #333;
 }
 
 .section-title p {
@@ -634,8 +634,8 @@ section {
 
 .about-video .content h3 {
   font-weight: 700;
-  font-size: 24px;
-  color: #ffc107;
+  font-size: 26px;
+  color: #333;
 }
 
 .about-video .content ul {
@@ -914,7 +914,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #ffc107;
+  color: #333;
   transition: ease-in-out 0.3s;
 }
 
